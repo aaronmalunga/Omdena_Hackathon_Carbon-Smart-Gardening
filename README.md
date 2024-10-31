@@ -36,8 +36,8 @@ Each of these nations represents a significant case study in sustainable energy,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/CINDS-Carbon-Intensity-Platform.git
-cd CINDS-Carbon-Intensity-Platform
+git clone https://github.com/aaronmalunga/Omdena_Hackathon_Real-Time-Emissions.git
+cd Omdena_Hackathon_Real-Time-Emissions
 ```
 
 2. Install dependencies:
