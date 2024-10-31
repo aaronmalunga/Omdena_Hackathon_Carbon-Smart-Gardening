@@ -1,12 +1,9 @@
 
 # **CINDS Carbon Intensity Visualization Platform**
 
-***
-
 ## __Overview__
-The **CINDS** Carbon Intensity Visualization Platform is a web-based application developed to provide real-time carbon intensity data from select countries with a strong commitment to low-carbon practices: **Costa Rica**, **Iceland**, **Norway**, **Denmark**, **and Sweden**. The platform maps the carbon emissions across these countries, allowing users to visually assess energy impact in specific regions and leverage data for sustainability discussions.
 
-***
+The **CINDS** Carbon Intensity Visualization Platform is a web-based application developed to provide real-time carbon intensity data from select countries with a strong commitment to low-carbon practices: **Costa Rica**, **Iceland**, **Norway**, **Denmark**, **and Sweden**. The platform maps the carbon emissions across these countries, allowing users to visually assess energy impact in specific regions and leverage data for sustainability discussions.
 
 ## **Features**
 
@@ -14,8 +11,6 @@ The **CINDS** Carbon Intensity Visualization Platform is a web-based application
 * **Color-Coded Intensity Indicators:** The application uses dynamic color codes on location markers to indicate varying levels of carbon intensity, ranging from green (low) to red (high).
 * **Country-Specific Information:** Detailed information on each country’s carbon profile, flag, and real-time intensity is displayed alongside the map for enhanced user insight.
 * **Interactive World Map:** A folium-powered map providing visual insights into emission data, with landmasses of selected countries colorized according to their carbon intensity levels.
-  
-***
 
 ## **Countries in CINDS**
 
@@ -29,8 +24,6 @@ These countries are highlighted due to their exemplary progress toward low-carbo
   
 Each of these nations represents a significant case study in sustainable energy, ranging from extensive renewable energy use to pioneering carbon-neutrality initiatives.
 
-***
-
 ## **Technology Stack**
 
 * **Streamlit:** For interactive web interface.
@@ -38,8 +31,6 @@ Each of these nations represents a significant case study in sustainable energy,
 * **Electricity Maps API:** For real-time carbon intensity data.
 * **Python:** Primary language for backend processing.
 * **Environment Management:** .env file for securely managing API keys.
-  
-***  
 
 ## Setup and Installation
 
@@ -64,8 +55,6 @@ ELECTRICITY_MAPS_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 
-***
-
 ## **Usage**
 
 Once the application is running, users can:
@@ -76,13 +65,9 @@ Once the application is running, users can:
    
 `3. Screenshot the map to visualize emissions for reports, presentations, or further analysis.`
 
-*** 
-
 ## **Sample Output**
 
 `Include the screenshot of the map here for visual reference.`
-
-***
 
 ## **Future Improvements**
 
@@ -90,8 +75,6 @@ Once the application is running, users can:
 * **Historical Data Analysis:** Incorporating historical emission data to track trends.
 * **Comparative Analytics:** Enabling comparison between current and past data.
   
-***  
-
 ## **License**
 
 This project is licensed under the MIT License.
