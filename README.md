@@ -63,7 +63,7 @@ Once the application is running, users can:
 2. Access country-specific information on carbon intensity and sustainability initiatives, shown on the side panel.
 
    
-![Screenshot 1](Carbon intensity map.PNG)
+![Carbon intensity Map](Carbon intensity map.PNG)
 
 ## **Sample Output**
 
