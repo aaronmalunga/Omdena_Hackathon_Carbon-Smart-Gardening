@@ -37,7 +37,7 @@ Leveraging its geothermal resources, **Iceland** has invested in **AI** to optim
 
 **Norway** is a global leader in electric vehicle [(EV)](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/what-norways-experience-reveals-about-the-ev-charging-market) adoption and has implemented AI-driven solutions for managing its energy grid. The country utilizes predictive analytics to forecast energy demand and optimize the dispatch of renewable resources. This synergy between **AI** and energy management provides a compelling narrative about how technology can facilitate the transition to a low-carbon economy. 
 
-***Denmark**
+**Denmark**
 
 **Denmark** is recognized for its ambitious climate goals and has integrated **AI** into its wind energy sector to enhance predictive maintenance and operational efficiency. The country's focus on smart grids and energy storage solutions showcases the transformative potential of [**AI**](https://www.energycluster.dk/en/new-drone-technology-uses-artificial-intelligence-to-examine-offshore-wind-turbine-blades/) in maximizing renewable energy output and achieving carbon neutrality. 
 
