@@ -37,6 +37,8 @@ Each of these nations represents a significant case study in sustainable energy,
 1. Clone the repository:
 ```bash
 git clone https://github.com/aaronmalunga/Omdena_Hackathon_Real-Time-Emissions.git
+```
+```
 cd Omdena_Hackathon_Real-Time-Emissions
 ```
 
@@ -45,9 +47,10 @@ cd Omdena_Hackathon_Real-Time-Emissions
 pip install -r requirements.txt
 ```
 
-3. Add your [Electricity Maps API key](https://api-portal.electricitymaps.com/) in the `.env` file:
+3. Add your [Electricity Maps API key](https://api-portal.electricitymaps.com/) in the `.streamlit/secrets.toml` file:
 ```plaintext
-ELECTRICITY_MAPS_API_KEY=your_api_key_here
+[api_keys]
+ELECTRICITY_MAPS_API_KEY = "your_api_key_here"
 ```
 
 4. Run the application:
