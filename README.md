@@ -88,12 +88,15 @@ Once the application is running, users can:
 1. View real-time carbon intensity data by country on the map.
 2. Access country-specific information on carbon intensity and sustainability initiatives, shown on the side panel.
 
-   
+ <div align="center">  
 ![Carbon intensity Map](https://github.com/aaronmalunga/Omdena_Hackathon_Real-Time-Emissions/blob/main/Carbon%20intensity%20map.PNG)
+</div>
 
 ## **Sample Output**
 
+<div align="center">
 ![Carbon intensity CINDS](https://github.com/aaronmalunga/Omdena_Hackathon_Real-Time-Emissions/blob/main/carbon%20intensity%20CINDS.PNG)
+</div>
 
 ## **Future Improvements**
 
