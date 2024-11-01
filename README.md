@@ -67,7 +67,7 @@ Once the application is running, users can:
 
 ## **Sample Output**
 
-`Include the screenshot of the map here for visual reference.`
+![Carbon intensity CINDS](https://github.com/aaronmalunga/Omdena_Hackathon_Real-Time-Emissions/blob/main/carbon%20intensity%20CINDS.PNG)
 
 ## **Future Improvements**
 
