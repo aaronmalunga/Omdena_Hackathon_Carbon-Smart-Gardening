@@ -3,17 +3,12 @@ import streamlit as st
 import requests
 import folium
 from streamlit_folium import st_folium
-import os
-from dotenv import load_dotenv
 
-# Load the environment variables from .env
-load_dotenv()
-
-# Define the API key from the .env file
-api_key = os.getenv("ELECTRICITY_MAPS_API_KEY")
+# Define the API key from Streamlit secrets
+api_key = st.secrets["api_keys"]["ELECTRICITY_MAPS_API_KEY"]
 
 if api_key is None:
-    st.error("API key is not set in the .env file.")
+    st.error("API key is not set in Streamlit secrets.")
     st.stop()
 
 # Base URL and headers for API requests
@@ -82,7 +77,7 @@ world_map = folium.Map(location=[0, 0], zoom_start=2)
 # Add markers to the map for each zone
 for zone, data in global_data.items():
     if "carbonIntensity" in data:  # Ensure the key exists in the data
-        intensity = data["carbonIntensity"]  # Replace with actual key if different
+        intensity = data["carbonIntensity"]
         coords = data["coords"]
         popup_text = f"{zones[zone]['name']}\nCarbon Intensity: {intensity} gCO2/kWh"
         
