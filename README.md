@@ -45,7 +45,7 @@ cd Omdena_Hackathon_Real-Time-Emissions
 pip install -r requirements.txt
 ```
 
-3. Add your Electricity Maps API key in the `.env` file:
+3. Add your [Electricity Maps API key](https://api-portal.electricitymaps.com/) in the `.env` file:
 ```plaintext
 ELECTRICITY_MAPS_API_KEY=your_api_key_here
 ```
